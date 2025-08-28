@@ -142,13 +142,6 @@ We welcome contributions to make SafeRoute even safer and more effective:
 - **Multi-Language Support**: Accessibility for diverse communities
 - **Campus Integration**: Specialized features for university campuses
 
-## 📞 Support
-
-For support, feature requests, or safety concerns:
-
-- **Email**: support@saferoute.app
-- **Emergency**: Always contact local emergency services (911) for immediate threats
-- **Bug Reports**: Use the GitHub Issues tab for technical problems
 
 ## 📄 License
 
